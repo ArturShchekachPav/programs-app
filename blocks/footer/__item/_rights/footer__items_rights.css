@@ -1,0 +1,16 @@
+.footer__item_rights {
+    list-style: none;
+    margin: 0;
+    display: flex;
+    gap: 4px;
+    align-items: center;
+  }
+  
+  .footer__item_rights::before {
+    content: '';
+    display: block;
+    background-image: url();
+    width: 14px;
+    height: 14px;
+    background-color: #000;
+  }

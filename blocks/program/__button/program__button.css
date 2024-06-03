@@ -1,0 +1,11 @@
+.program__button {
+    font-family: "Open Sans", sans-serif;
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 28.6px;
+    min-height: 65px;
+    max-width: 246px;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 8px;
+  }

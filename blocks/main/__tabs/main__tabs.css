@@ -1,0 +1,4 @@
+.main__tabs {
+    display: flex;
+    gap: 40px;
+  }

@@ -1,0 +1,6 @@
+.program__buttons {
+    display: flex;
+    gap: 24px;
+    width: 100%;
+    justify-content: flex-end;
+  }

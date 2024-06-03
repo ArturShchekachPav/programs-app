@@ -1,0 +1,9 @@
+.main__pages {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 3px;
+    justify-content: flex-end;
+    width: 100%;
+    margin: 29px 0 0 0;
+  }

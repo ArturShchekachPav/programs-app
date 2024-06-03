@@ -1,0 +1,8 @@
+.programs {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 45px;
+    margin: 37px 0 0 0;
+  }

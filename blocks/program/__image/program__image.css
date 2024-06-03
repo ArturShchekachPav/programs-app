@@ -1,0 +1,7 @@
+.program__image {
+    display: block;
+    background-color: #E2DDDD;
+    border-radius: 13px;
+    width: 100%;
+    max-width: 273px;
+  }
