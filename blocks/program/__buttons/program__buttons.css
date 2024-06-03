@@ -4,3 +4,9 @@
     width: 100%;
     justify-content: flex-end;
   }
+
+@media (max-width: 1350px) {
+    .program__buttons {
+        flex-direction: column;
+    }
+}

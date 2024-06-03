@@ -6,3 +6,9 @@
     margin: 0 0 3px 0;
     color: #6C6969;
   }
+
+@media (max-width: 1350px) {
+    .program__description {
+        margin: 0 0 35px 0;
+    }
+}

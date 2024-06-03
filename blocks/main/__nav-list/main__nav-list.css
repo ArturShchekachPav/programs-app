@@ -5,3 +5,18 @@
     flex-direction: column;
     gap: 72px;
   }
+
+@media (max-width: 950px) {
+    .main__nav-list {
+        flex-direction: row;
+        justify-content: space-between;
+        gap: 5px;
+        width: 100%;
+    }
+}
+
+@media (max-width: 800px) {
+    .main__nav-list {
+        flex-direction: column;
+    }
+}
