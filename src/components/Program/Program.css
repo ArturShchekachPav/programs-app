@@ -1,0 +1,109 @@
+.program {
+    display: flex;
+    background-color: #FFFFFF;
+    border-radius: 21px;
+    padding: 21px 41px 21px 17px;
+    width: 100%;
+    gap: 34px;
+    box-sizing: border-box;
+}
+
+.program__image {
+    display: block;
+    background-color: #E2DDDD;
+    border-radius: 13px;
+    width: 100%;
+    max-width: 273px;
+    color: transparent;
+    position: relative;
+    height: 174px;
+}
+
+.program__image:before {
+    content: " ";
+    display: block;
+    background-color: #E2DDDD;
+    position: absolute;
+    height: 100%;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.program__info {
+    width: 100%;
+}
+
+.program__title {
+    font-family: "Open Sans", sans-serif;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 38.13px;
+    color: #000;
+    margin: 10px 0 30px 0;
+}
+
+.program__description {
+    font-family: "Open Sans", sans-serif;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 28.6px;
+    margin: 0 0 3px 0;
+    color: #6C6969;
+}
+
+.program__buttons {
+    display: flex;
+    gap: 24px;
+    width: 100%;
+    justify-content: flex-end;
+}
+
+.program__button {
+    font-family: "Open Sans", sans-serif;
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 28.6px;
+    min-height: 65px;
+    max-width: 246px;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.program__button_more {
+    background-color: transparent;
+    border: 1px solid #148C88;
+    color: #148C88;
+}
+
+.program__button_add {
+    background-color: #148C88;
+    border: none;
+    color: #fff;
+}
+
+@media (max-width: 1350px) {
+    .program__description {
+        margin: 0 0 35px 0;
+    }
+
+    .program__buttons {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 1200px) {
+    .program {
+        flex-direction: column;
+        padding: 21px 17px 21px 17px;
+    }
+
+    .program__image {
+        max-width: 100%;
+    }
+
+    .program__button {
+        max-width: 100%;
+    }
+}

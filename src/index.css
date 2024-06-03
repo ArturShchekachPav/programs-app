@@ -1,0 +1,11 @@
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts/fonts.css);
+
+.hover {
+    transition: all 0.5s;
+}
+
+.hover:hover {
+    cursor: pointer;
+    opacity: 0.7;
+}

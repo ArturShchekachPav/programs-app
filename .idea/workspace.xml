@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5d9f486-e590-45cd-9c35-b8bc3c2587f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NavBar/NavBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NavBar/NavBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Program/Program.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Program/Program.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Programs/Programs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Programs/Programs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/constants.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/programs-app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__info/footer__info.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__item/_rights/footer__items_rights.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__item/footer__item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__link/footer__link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__button/_account/header__button_account.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__button/_notification/header__button_notification.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__button/header__button.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__logo/header__logo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/hover/hover.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/main/__button/_active/main__button_active.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/main/__button/main__button.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/main/__info/main__info.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/main/__nav-item/_active/main__nav-item_active.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/main/__nav-item/main__nav_item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/main/__nav-list/main__nav-list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/main/__nav/main__nav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/main/__page/main__page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/main/__pages/main__pages.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/main/__profile-name/main__profile-name.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/main/__tabs/main__tabs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/main/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/page/page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/program/__button/_add/program__buttons_add.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/program/__button/_more/program__button_more.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/program/__button/program__button.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/program/__buttons/program__buttons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/program/__description/program__description.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/program/__image/program__image.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/program/__info/program__info.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/program/__title/program__title.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/program/program.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/programs/programs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bell.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/rights.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/unknown_user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fonts/Montserrat/Montserrat-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fonts/Montserrat/Montserrat.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fonts/Open_Sans/OpenSans-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fonts/Open_Sans/OpenSans-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fonts/Open_Sans/Open_Sans.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fonts/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/normalize.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2hMiOHEfjQuKSae1SkpCUziX33h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ArturTheBossOfGym\WebstormProjects\programs-app\src\components\App" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5d9f486-e590-45cd-9c35-b8bc3c2587f3" name="Changes" comment="" />
+      <created>1717410314448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717410314448</updated>
+      <workItem from="1717410319756" duration="26754000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/layout" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
