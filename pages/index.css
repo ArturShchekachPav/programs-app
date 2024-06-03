@@ -31,4 +31,5 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__info/footer__info.css);
 @import url(../blocks/footer/__item/footer__item.css);
+@import url(../blocks/footer/__item/_rights/footer__item_rights.css);
 @import url(../blocks/footer/__link/footer__link.css);
