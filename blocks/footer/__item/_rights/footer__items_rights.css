@@ -9,7 +9,7 @@
   .footer__item_rights::before {
     content: '';
     display: block;
-    background-image: url();
+    background-image: url(../../../../images/rights.png);
     width: 14px;
     height: 14px;
     background-color: #000;
