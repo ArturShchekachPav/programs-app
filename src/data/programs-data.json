@@ -1,0 +1,282 @@
+[
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 1"
+    },
+    "title": "Программа 1",
+    "description": "12-24 ноября",
+    "id": "1",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 2"
+    },
+    "title": "Программа 2",
+    "description": "12 часов",
+    "id": "2",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 3"
+    },
+    "title": "Программа 3",
+    "description": "12 часов",
+    "id": "3",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 4"
+    },
+    "title": "Программа 4",
+    "description": "20 часов",
+    "id": "4",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 5"
+    },
+    "title": "Программа 5",
+    "description": "12-24 ноября",
+    "id": "5",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 6"
+    },
+    "title": "Программа 6",
+    "description": "12 часов",
+    "id": "6",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 7"
+    },
+    "title": "Программа 7",
+    "description": "12 часов",
+    "id": "7",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 8"
+    },
+    "title": "Программа 8",
+    "description": "20 часов",
+    "id": "8",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 9"
+    },
+    "title": "Программа 9",
+    "description": "12-24 ноября",
+    "id": "9",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 10"
+    },
+    "title": "Программа 10",
+    "description": "12 часов",
+    "id": "10",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 11"
+    },
+    "title": "Программа 11",
+    "description": "12 часов",
+    "id": "11",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 12"
+    },
+    "title": "Программа 12",
+    "description": "20 часов",
+    "id": "12",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 13"
+    },
+    "title": "Программа 13",
+    "description": "12-24 ноября",
+    "id": "13",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 14"
+    },
+    "title": "Программа 14",
+    "description": "12 часов",
+    "id": "14",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 15"
+    },
+    "title": "Программа 15",
+    "description": "12 часов",
+    "id": "15",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 16"
+    },
+    "title": "Программа 16",
+    "description": "20 часов",
+    "id": "16",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 17"
+    },
+    "title": "Программа 17",
+    "description": "12-24 ноября",
+    "id": "17",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 18"
+    },
+    "title": "Программа 18",
+    "description": "12 часов",
+    "id": "18",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 19"
+    },
+    "title": "Программа 19",
+    "description": "12 часов",
+    "id": "19",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 20"
+    },
+    "title": "Программа 20",
+    "description": "20 часов",
+    "id": "20",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 21"
+    },
+    "title": "Программа 21",
+    "description": "12-24 ноября",
+    "id": "21",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 22"
+    },
+    "title": "Программа 22",
+    "description": "12 часов",
+    "id": "22",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 23"
+    },
+    "title": "Программа 23",
+    "description": "12 часов",
+    "id": "23",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 24"
+    },
+    "title": "Программа 24",
+    "description": "20 часов",
+    "id": "24",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 25"
+    },
+    "title": "Программа 25",
+    "description": "20 часов",
+    "id": "25",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 26"
+    },
+    "title": "Программа 26",
+    "description": "20 часов",
+    "id": "26",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 27"
+    },
+    "title": "Программа 27",
+    "description": "20 часов",
+    "id": "27",
+    "isSaved": false
+  },
+  {
+    "img": {
+      "src": "#",
+      "alt": "Картинка 28"
+    },
+    "title": "Программа 28",
+    "description": "20 часов",
+    "id": "28",
+    "isSaved": false
+  }
+]

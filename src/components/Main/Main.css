@@ -1,12 +1,19 @@
 .main {
     display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.main__container {
+    display: flex;
     gap: 60px;
     padding: 0 126px 0 80px;
     position: relative;
     box-sizing: border-box;
+    height: max-content;
 }
 
-.main::before {
+.main__container::before {
     content: '';
     background-color: #148c88;
     position: absolute;
@@ -43,7 +50,7 @@
 }
 
 @media (max-width: 950px) {
-    .main {
+    .main__container {
         flex-direction: column;
     }
 
@@ -57,7 +64,7 @@
 }
 
 @media (max-width: 800px) {
-    .main::before {
+    .main__container::before {
         height: 540px;
     }
 }
