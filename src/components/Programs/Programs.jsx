@@ -1,6 +1,6 @@
 import './Programs.css';
 import Program from "../Program/Program";
-import {useState, useMemo} from "react";
+import {useState, useMemo, useEffect} from "react";
 import Pagination from "../Pagination/Pagination";
 let PageSize = 4;
 
@@ -12,6 +12,10 @@ function Programs({programs, showAllPrograms, onSaveProgram, setShowAllPrograms}
         const lastPageIndex = firstPageIndex + PageSize;
         return programs.slice(firstPageIndex, lastPageIndex);
     }, [currentPage, showAllPrograms]);
+
+    useEffect(() => {
+        setCurrentPage(1);
+    }, [showAllPrograms])
 
 
     if(programs === null) {
@@ -45,7 +49,6 @@ function Programs({programs, showAllPrograms, onSaveProgram, setShowAllPrograms}
                 <button className={`programs__button ${!showAllPrograms ? 'programs__button_active' : 'hover'}`} onClick={() => setShowAllPrograms(false)}>МОИ ПРОГРАММЫ</button>
             </div>
             <ul className="programs">
-                {console.log([currentTableData, programs])}
                 {currentTableData.map((program) => {
                     return <Program program={program} key={program.id} onSaveProgram={onSaveProgram} showAllPrograms={showAllPrograms}/>
                 })}
