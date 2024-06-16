@@ -44,12 +44,16 @@
 }
 
 @media (max-width: 1111px) {
-    .main::before {
-        height: 470px;
+    .main__container::before {
+        height: 500px;
     }
 }
 
 @media (max-width: 950px) {
+    .main__container::before {
+        height: 470px;
+    }
+
     .main__container {
         flex-direction: column;
     }
@@ -66,5 +70,11 @@
 @media (max-width: 800px) {
     .main__container::before {
         height: 540px;
+    }
+}
+
+@media (max-width: 656px) {
+    .main__container::before {
+        height: 620px;
     }
 }
