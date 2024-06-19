@@ -29,7 +29,7 @@ function App() {
 
     useEffect(() => {
         getProfileData().catch((err) => console.log(err));
-    }, []);
+    });
 
     function onSaveProgram(targetProgram) {
 
